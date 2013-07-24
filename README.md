@@ -1,9 +1,9 @@
 cvpr13
 ======
-This package includes the codes and the data related to the SUN 09 dataset. The code files are in code_class_public/. You can start with:
+This package includes the codes and the data related to the SUN 09 dataset. The code files are in code_class_public/. You can start by typing:
 
->> cd code_class_public
->> demo
+cd code_class_public
+demo
 
 The data files are stored in dataset_dbox_public/. They are:
 
